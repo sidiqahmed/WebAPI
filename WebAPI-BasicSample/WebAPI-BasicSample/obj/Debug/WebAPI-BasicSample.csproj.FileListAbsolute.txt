@@ -25,3 +25,11 @@ C:\Users\Ajaykumar.Santra\Desktop\WebAPI-BasicSample\WebAPI-BasicSample\bin\Debu
 C:\Users\Ajaykumar.Santra\Desktop\WebAPI-BasicSample\WebAPI-BasicSample\bin\Debug\System.Web.Http.SelfHost.xml
 C:\Users\Ajaykumar.Santra\Desktop\WebAPI-BasicSample\WebAPI-BasicSample\obj\Debug\WebAPI-BasicSample.csprojResolveAssemblyReference.cache
 C:\Users\Ajaykumar.Santra\Desktop\WebAPI-BasicSample\WebAPI-BasicSample\obj\Debug\WebAPI-BasicSample.pdb
+C:\Users\sachin.Chaudhari\Desktop\WebAPI\WebAPI-BasicSample\WebAPI-BasicSample\bin\Debug\WebAPI-BasicSample.exe.config
+C:\Users\sachin.Chaudhari\Desktop\WebAPI\WebAPI-BasicSample\WebAPI-BasicSample\obj\Debug\WebAPI-BasicSample.exe
+C:\Users\sachin.Chaudhari\Desktop\WebAPI\WebAPI-BasicSample\WebAPI-BasicSample\obj\Debug\WebAPI-BasicSample.pdb
+C:\Users\sachin.Chaudhari\Desktop\WebAPI\WebAPI-BasicSample\WebAPI-BasicSample\obj\Debug\WebAPI-BasicSample.csprojResolveAssemblyReference.cache
+C:\Users\sachin.Chaudhari\Desktop\WebAPI\WebAPI-BasicSample\WebAPI-BasicSample\bin\Debug\WebAPI-BasicSample.exe
+C:\Users\sachin.Chaudhari\Desktop\WebAPI\WebAPI-BasicSample\WebAPI-BasicSample\bin\Debug\WebAPI-BasicSample.pdb
+C:\Users\sachin.Chaudhari\Desktop\WebAPI\WebAPI-BasicSample\WebAPI-BasicSample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sachin.Chaudhari\Desktop\WebAPI\WebAPI-BasicSample\WebAPI-BasicSample\bin\Debug\Newtonsoft.Json.xml
