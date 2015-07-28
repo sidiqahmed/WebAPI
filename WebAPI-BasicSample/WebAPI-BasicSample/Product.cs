@@ -13,5 +13,7 @@ namespace WebAPI_BasicSample
         public string Category { get; set; }
         public decimal Price { get; set; }
         public string Name_Temp { get; set; }
+        public string AniketTeam { get; set; }
+        public string Anikettemp { get; set; }
     }
 }
