@@ -15,5 +15,7 @@ namespace WebAPI_BasicSample
         public string Name_Temp { get; set; }
         public string AniketTeam { get; set; }
         public string Anikettemp { get; set; }
+
+        public string Test_aniket { get; set; }
     }
 }
